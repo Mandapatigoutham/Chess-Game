@@ -1,6 +1,7 @@
 {
   "homepage": "https://Mandapatigoutham.github.io/chess-game",
   "name": "chess-game",
+  "homepage": "https://Mandapatigoutham.github.io/Chess-Game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
