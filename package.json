@@ -1,7 +1,6 @@
 {
   "homepage": "https://Mandapatigoutham.github.io/chess-game",
   "name": "chess-game",
-  "homepage": "https://Mandapatigoutham.github.io/Chess-Game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
